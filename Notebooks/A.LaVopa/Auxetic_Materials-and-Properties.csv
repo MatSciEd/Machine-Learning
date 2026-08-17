@@ -1,0 +1,101 @@
+Material Name,Density (g/cm^3),Elastic Modulus (GPa),Yield Stress (MPa),Poisson's Ratio,Fatigue Strength 10^7 cycles (MPa),Fracture Toughness (Mpa*m^.5),Toughness (kJ/m^2)
+Acroyonitrile Butadiene Styrene (Extrusion),1.05,2.45,37.35,0.408,16,2,1.7
+Acroyonitrile Butadiene Styrene Foam,0.84,1.25,22,0.275,13.2,0.45,1.65
+Aerated Concrete,0.65,15,0.85,0.185,0.7,0.05,0.00017
+Aluminum Foam,0.5,5,7.5,0.29,7.5,2.05,0.85
+Aluminum 413.0,2.655,70.4,145,0.33,108.5,22.8,7.9
+Aluminum 705.0,2.79,70.8,127,0.33,65.2,31.25,13.9
+Aluminum,2.71,70.5,165,0.33,72.5,33.5,16
+Aluminum-polyethylene Composite,23.9,18.5,60,0.426,35,32.5,57.75
+Asphalt Concrete,2.5,30,0.2,0.355,0.08,1.65,0.12
+Bioglass ceramic,3.07,115,95,0.235,85,2,0.03515
+Borosilicate Glass 2405,2.475,67.9,33,0.205,31.3,0.635,0.0059
+Brass C26000,8.5,105,115,0.345,153.5,71.8,48.5
+Brass C85400,8.2,97,90,0.345,114.5,79.3,66.1
+"Bronze C50900, half-hard",8.84,120,395,0.345,205.5,34.85,10.12
+"Bronze C50900, hard",8.84,120,395,0.345,205.5,34.85,10.13
+"Bronze C50900, soft",8.84,120,105,0.345,151.5,74.55,46.35
+Butadiene Rubber,0.925,0.0015,8.25,0.5,1.7,0.134,13.5
+Calcium Phosphate Bioceramic,3.1,71.5,38,0.315,17.2,1.15,0.019
+Carbon-fiber Reinforced Carbon Matric Composite,1.7,75,489,0.32,12.8,6,0.48
+Carbon Steel 1010 Annealed,7.85,210,238,0.29,220.5,56,15.455
+Carbon Steel 1025 Annealed,7.86,205,261,0.327,248,61.5,19.5
+Carbon Steel 1025 Normalized,7.86,205,261,0.327,248,61.5,19.5
+Carbon Steel 1060 Annealed,7.85,212,372.5,0.29,307.5,65.1,21.4
+Carbon Steel 1060 Normalized,7.85,212,420,0.29,357.5,71,24.6
+"Cast Iron, Nodular Graphite",7.1,169,237,0.275,187.5,43.5,11.585
+"Cast Iron, Pearlitic Malleable",7.275,164.5,300,0.26,245,44,11.85
+Cement (Portland),2,40.9,2,0.22,1.155,0.4,0.00396
+Chromium-nickel Alloy (50Cr-50Ni),8.05,197.5,392.5,0.26,290,135,94
+Concrete (High Performance),2.4,37.5,7.3,0.15,4.045,0.4,0.0044
+Concrete (Portland Cement),2.4,20,1.1,0.15,0.69,0.4,0.00857
+Concrete (Structural Lightweight),1.7,16,1.95,0.185,1.01,0.055,0.00021
+Corkboard (0.12 Specific Gravity),0.12,0.0134,0.241,0.175,,,
+Corkboard (0.25 Specific Gravity),0.25,0.0506,2.2,0.225,,,
+Diamond,3.51,113,2865,0.2,2.4,86.5,0.0671
+Egg Shell,2.46,24.5,60,0.3,52.5,0.325,0.00456
+Enamel,2.965,76.25,16.15,0.31,14,1.2,0.02
+Epoxy Resin (Cycloaliphatic),1.185,3.005,55.2,0.393,27.6,2.035,1.39
+Epoxy Resin (Unfilled),1.255,2.41,53.9,0.399,32.5,0.6,0.15
+Ethylene Vinyl Alcohol (Unfilled),1.16,2.4,61.25,0.399,28,2.555,2.8
+Expanded Polystyrene Foam,0.02,0.0052,0.135,0.275,0.225,0.0025,0.0014
+Femur Cortical Bone,1.945,16.85,107.5,0.44,,,
+Femur Trabecular Bone,0.4685,12.73,46.68,0.21,,,
+Gold,19.35,78.5,185,0.42,90,63.3,51.2
+High Density Concrete,5.2,40.9,3.4,0.22,1.95,0.4,0.00396
+Laminated Glass,2.4,67,35.5,0.23,29.15,1.15,0.02
+Leather,0.93,0.3,3.5,0.215,6.75,4,93.65
+Hastelloy X,8.22,211.5,395,0.327,357.5,196,183.5
+Inconel 718 (Solution Treated),8.22,208,762,0.296,620,257.5,318.5
+Inconel 718 (Solution Treated and Aged),8.22,203,1650,0.296,620,124.5,76.4
+Waspaloy (Precipitation Treated),8.25,217.5,810,0.306,582.5,129.5,77.65
+Udimet 630,8.4,215,1310,0.29,690,91.4,39.05
+Nickel-titanium Alloy (Austenitic),6.475,62,442.5,0.33,148,299.5,1640
+Nickel-titanium Alloy (Martensitic),6.475,34.5,105,0.33,35.15,,
+Nickel-tungsten MAR-M 200,8.525,220,840,0.285,422.5,46.9,10.04
+Palladium,12.05,121,35,0.39,22.5,83.45,57.2
+Polyether Ether Ketone,1.31,3.85,100,0.4,43,3.5,3.3
+Polyimide,1.65,2.5,115,0.34,46,7.73,25.35
+Polylactic Acid,1.245,3,58.5,0.33,22.4,3.45,4.85
+Platinum,21.5,170,24.5,0.39,65,120,85.9
+Poly(lactic-co-glycolic acid),1.35,1.895,48.5,0.4,19.35,3.68,7.235
+"Plywood, 3 ply, parallel to face layer",0.75,7.5,38.25,0.25,28.75,0.75,0.0813
+"Plywood, 3 ply, perpendicular to face layer",0.75,3.75,9,0.25,9.45,0.75,0.1631
+"Plywood, 5 ply, parallel to face layer",0.75,6.5,38.25,0.25,25.1,0.75,0.09515
+"Plywood, 5 ply, perpendicular to face layer",0.75,4.25,9,0.25,11,0.75,0.1438
+"Polyester, cast, flexible",1.105,0.3,12.4,0.444,7.14,1.355,6.36
+"Polyester, cast, rigid",1.22,3.24,36.5,0.392,26.2,1.39,0.6915
+Polysulfide Rubber,1.295,0.0018,1.1,0.4945,0.44,0.145,24.39
+Polypropylene,0.9045,1.69,36.7,0.3975,17.15,2.36,3.305
+Polyphthalate Carbonate,1.195,3.175,65,0.396,29.6,3.535,5.795
+Polytetrafluoroethylene,2.17,0.476,20.7,0.45,6.375,1.56,5.31
+Polyurethane,1.05,4.105,57.9,0.383,29.2,1.515,0.5525
+Polyvinylidene Fluoride,1.775,1.915,36.5,0.4225,14.82,4.74,3.375
+Silicon,2.33,160,172.5,0.27,140,0.9,0.1037
+Silver,10.5,72,262.5,0.39,135,64.95,58.7
+Soda-lime Glass 0070,2.495,70,31.25,0.215,29.7,0.64,0.00586
+Soda-lime Glass 0080,2.475,69.95,32.75,0.215,30.95,0.645,0.005955
+"Stainless Steel, austenitic, ASTM CG-8M",7.85,193,305,0.27,286.5,136,97.5
+"Stainless Steel, ferritic, AISI 409",7.715,200,250,0.28,105.5,58.15,58.15
+"Stainless Steel, ferritic, ASTM CB-30",7.525,200,415,0.28,318,84,36.45
+"Stainless Steel, martensitic, ASTM CA-15",7.61,200,690,0.28,364,45,10.365
+Styrene Butadiene Rubber,0.9505,0.006,2.2,0.488,0.88,0.354,31.37
+"Ti-38%SiC Composite (0, 90, 0)",4.16,163,800,0.23,459.5,24.5,3.77
+"Ti-6Al-4V Alpha-beta Alloy, aged",4.425,115,1.05,0.36,625.5,91,72.65
+"Ti-6Al-4V Alpha-beta Alloy, annealed",4.43,115,848,0.34,354,95.5,80.65
+"Ti-6Al-4V Alpha-beta Alloy, cast",4.43,114,842,0.3405,661,109,104.7
+"Tool Steel, AISI H10",7.815,213,1356.5,0.29,407,28.4,7.78
+"Tool Steel, AISI H11",7.755,215.5,1265,0.29,495,23.65,5.2
+"Tool Steel, AISI H12",8.01,213.5,1310.5,0.29,393.5,29.1,4.075
+"Tool Steel, AISI H13",7.665,216,1650,0.29,341,23.65,2.595
+"Tool Steel, AISI H14",7.895,216.5,1145,0.29,343,30.9,4.435
+"Tool Steel, AISI H19",7.985,216.5,1405,0.29,421,27.75,3.66
+Tool Steel AISI H21,16.59,223.5,1365,0.29,376,30.15,4.185
+Tool Steel AISI H22,8.365,227.5,1246.5,0.29,374,29.6,3.94
+Tool Steel AISI H23,8.435,228,1050,0.29,315,33.15,4.895
+Tool Steel AISI H24,8.265,233,1440,0.29,432,26.55,3.065
+Tool Steel AISI H25,8.29,233,1004.5,0.29,300.5,33.85,4.96
+Tool Steel AISI H26,8.675,238,1490,0.29,447,26.85,3.11
+Thermoplastic Polyurethane,1.36,1.389,125.1,0.409,25,3.2,8.27
+Tungsten Carbide,15.6,635,451.5,0.21,390,8.2,0.1068
+"Tungsten Carbide, hot pressed",15.7,669,352.5,0.21,309,8.2,0.1013
